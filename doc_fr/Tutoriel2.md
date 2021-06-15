@@ -42,7 +42,7 @@ Maintenant, pour utiliser un opcode, nous utilisons la syntaxe suivante : en pre
 
 Pour récapituler, nous définissons les instruments comme des processus. Les instruments sont constitués d’opcodes, chacun pouvant effectuer un traitement quelconque. Définir les instruments ne définit que ce que nous voulons faire, mais ne fait rien. Pour exécuter l'instrument, nous devons créer une instance de l'instrument et dire à Csound de l'exécuter, et faire tout ce dont nous avons besoin pour utiliser des événements.
 
-#### Classical Syntaxe classique vs. Syntaxe moderne
+#### Syntaxe classique vs. Syntaxe moderne
 
 Un point supplémentaire cependant: le code que nous présentons ci-dessus utilise une version moderne du langage Orchestra de Csound, devenu disponible dans Csound 6. Dans la syntaxe classique de Csound, nous pourrions écrire l'instrument ci-dessus comme suit:
 
